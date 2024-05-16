@@ -7,7 +7,7 @@
 body{
     display : flex;
     justify-content: center;
-    background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.1)), urlC:\Users\navji\OneDrive\Desktop\projectscm\BMI-calculator-SCM-project\sports-background.jpg();
+    background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.1)), url(C:\Users\navji\OneDrive\Desktop\projectscm\BMI-calculator-SCM-project\sports-background.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
